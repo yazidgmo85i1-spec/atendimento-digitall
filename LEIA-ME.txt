@@ -1,0 +1,21 @@
+SITE INSTITUCIONAL — HENRIQUE CAMPOS
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página institucional
+- privacidade.html: política de privacidade (modelo inicial)
+- termos.html: termos de uso (modelo inicial)
+- assets/style.css: estilos personalizados
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador ou envie todos os arquivos mantendo a estrutura para sua hospedagem.
+3. O Bootstrap e os ícones são carregados por CDN, portanto a visualização completa exige internet.
+
+Imagens:
+As quatro imagens enviadas foram incluídas na pasta assets e aparecem em uma galeria responsiva na página inicial.
+
+Importante:
+- Revise os textos legais para refletirem exatamente os serviços e as ferramentas que serão usadas.
+- Se instalar Google Analytics, tags do Google Ads, pixels, formulários ou cookies não essenciais, atualize a Política de Privacidade e implemente os avisos/consentimentos cabíveis.
+- A criação do site não garante aprovação no Google Ads. Verifique também a política de publicidade, a página de destino, a transparência da oferta e a consistência dos dados comerciais.
